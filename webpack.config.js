@@ -1,4 +1,5 @@
 const path = require('path');
+const number = require('assert');
 
 module.exports = {
   entry: [
