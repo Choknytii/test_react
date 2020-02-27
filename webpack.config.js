@@ -31,7 +31,7 @@ module.exports = {
                 minimize: true,
                 url: false
               }
-            },
+            },  
             {
               loader: "sass-loader",
               options: {
